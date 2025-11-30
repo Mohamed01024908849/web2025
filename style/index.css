@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Guides&family=Rakkas&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Guides&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Rakkas&display=swap');
+*{
+      font-family: "Rakkas", serif;
+}
+.navbar-brand{
+ font-family: "Rakkas", serif;
+}
+.card-img-top{
+height: 200px;
+
+}
+@media screen and (max-width:992px){
+
+          
+    .dropdown-menu{
+
+        text-align: center;
+    }
+    
+}
